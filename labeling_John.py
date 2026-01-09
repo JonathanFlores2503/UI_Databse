@@ -191,4 +191,4 @@ if __name__ == "__main__":
     root = tk.Tk()
     app = VideoAnnotator(root)
     root.mainloop()
-    print("Fin")
+    
